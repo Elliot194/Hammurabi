@@ -1,0 +1,28 @@
+E:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csprojResolveAssemblyReference.cache
+E:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+E:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe.config
+E:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe
+E:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.pdb
+E:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.exe
+E:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.pdb
+F:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe.config
+F:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe
+F:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.pdb
+F:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csprojResolveAssemblyReference.cache
+F:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+F:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.exe
+F:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.pdb
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe.config
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.pdb
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csprojResolveAssemblyReference.cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.exe
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.pdb
+D:\USW\Year 0\CS0S360 Software Development Fundamentals\Assignment\Assignment 1 Hammurabi\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe.config
+D:\USW\Year 0\CS0S360 Software Development Fundamentals\Assignment\Assignment 1 Hammurabi\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.exe
+D:\USW\Year 0\CS0S360 Software Development Fundamentals\Assignment\Assignment 1 Hammurabi\Hammurabi Assinment\Hammurabi\Hammurabi\bin\Debug\Hammurabi.pdb
+D:\USW\Year 0\CS0S360 Software Development Fundamentals\Assignment\Assignment 1 Hammurabi\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csprojAssemblyReference.cache
+D:\USW\Year 0\CS0S360 Software Development Fundamentals\Assignment\Assignment 1 Hammurabi\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.csproj.CoreCompileInputs.cache
+D:\USW\Year 0\CS0S360 Software Development Fundamentals\Assignment\Assignment 1 Hammurabi\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.exe
+D:\USW\Year 0\CS0S360 Software Development Fundamentals\Assignment\Assignment 1 Hammurabi\Hammurabi Assinment\Hammurabi\Hammurabi\obj\Debug\Hammurabi.pdb
