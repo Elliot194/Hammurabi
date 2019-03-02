@@ -5,4 +5,4 @@ Details
 -------
 
 This is from a uni assignment 2017 
-C# Console stratagy game
+C# console stratagy game
