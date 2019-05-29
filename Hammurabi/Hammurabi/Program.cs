@@ -592,7 +592,7 @@ namespace Hammurabi
                 Console.WriteLine("ITS BEEN A DARK YEAR!");
                 Console.WriteLine("A TORNADO HAS DESTROYED " + lastYrTornadoDamage + " ACRES OF LAND AND");
                 Console.WriteLine("A PLAUGE HAS STRUCK " + lastYrPlagePopulation + " CITIZENS HAVE DIED!");
-                Console.WriteLine("We must pray to the lost King Nahire");
+                Console.WriteLine("We must pray to the lost King Nahire\n");
                 lastYrPlagePopulation = 0;
             }
             else if (lastYrPlagePopulation > 0)
@@ -602,7 +602,7 @@ namespace Hammurabi
             }
             else if (lastYrTornadoDamage > 0)
             {
-                Console.WriteLine("A TORNADO HAS DESTROYED " + lastYrTornadoDamage + "ACRES OF LAND AND");
+                Console.WriteLine("A TORNADO HAS DESTROYED " + lastYrTornadoDamage + " ACRES OF LAND AND");
                 lastYrTornadoDamage = 0;
             }            
             Console.WriteLine("Population is now " + population + " inhabitants\n" +
